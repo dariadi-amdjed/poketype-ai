@@ -47,15 +47,6 @@ Input Layer → Dense(128) → Dropout → Dense(64) → Dense(32) → Softmax O
 
 ---
 
-## Training Results
-
-The model was trained for 50 epochs using the Adam optimizer and sparse categorical crossentropy loss.
-
-Example metrics:
-- Validation Accuracy: XX%
-
----
-
 ## How to Run
 
 Install dependencies:
