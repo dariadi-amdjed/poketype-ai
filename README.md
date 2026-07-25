@@ -2,6 +2,10 @@
 
 A deep learning project that predicts a Pokémon's primary type using its battle stats and physical attributes.
 
+## Demo
+
+![poketype-ai Demo](poketype.gif)
+
 ## Features
 
 - Neural Network built with TensorFlow/Keras
